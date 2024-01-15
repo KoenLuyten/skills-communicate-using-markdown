@@ -5,3 +5,7 @@
 ```javascript
 var test = 1;
 ```
+
+- [ ] task1
+- [x] task2
+- [ ] task3
